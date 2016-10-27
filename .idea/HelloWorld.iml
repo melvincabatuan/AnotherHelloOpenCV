@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cygwin64/home/cobalt/src/opencv-3.1.0/build/OpenCVConfig-version.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cygwin64/home/cobalt/src/opencv-3.1.0/build/OpenCVConfig.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cygwin64/home/cobalt/src/opencv-3.1.0/build/OpenCVModules.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/5.4.0/include" />
+          <root url="file://C:/cygwin64/usr/include" />
+          <root url="file://C:/cygwin64/usr/local/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/build" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/shape/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/imgproc/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/flann/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/highgui/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/stitching/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/viz/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/superres/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/features2d/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/core/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/calib3d/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/ml/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/imgcodecs/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/videostab/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/video/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/videoio/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/photo/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/objdetect/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/5.4.0/include" />
+          <root url="file://C:/cygwin64/usr/include" />
+          <root url="file://C:/cygwin64/usr/local/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/build" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/shape/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/imgproc/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/flann/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/highgui/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/stitching/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/viz/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/superres/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/features2d/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/core/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/calib3d/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/ml/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/imgcodecs/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/videostab/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/video/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/videoio/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/photo/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/modules/objdetect/include" />
+          <root url="file://C:/cygwin64/home/cobalt/src/opencv-3.1.0/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
